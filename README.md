@@ -1,2 +1,4 @@
 # Differoo
-Diff all the things!\r\nFeed it two mounted partitions (or folders) and it will md5sum all of them and compare the two.\r\nIntended for comparing a compromised box with a known-good box, to see what changed or went missing.\r\n"
+Diff all the things!
+Feed it two mounted partitions (or folders) and it will md5sum all of them and compare the two.
+Intended for comparing a compromised box with a known-good box, to see what changed or went missing.
